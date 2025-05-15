@@ -1,6 +1,9 @@
 ## Hi! This is IllusionLie!
 
-I'm just a beginner of almost everything 😣
+Vibe Coding Enjoyer, Beginner Coder    
+I enjoy playing around with some interesting open-source projects.
+
+<div align="center">
 
 [![IllusionLie's GitHub stats](https://github-readme-stats-vercel-chi-mocha.vercel.app/api?username=illusionlie&show_icons=true&theme=dracula&rank_icon=percentile&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -10,3 +13,6 @@ I'm just a beginner of almost everything 😣
   />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=illusionlie.illusionlie)
+
+![](https://count.getloli.com/@illusionlie?theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+</div>
