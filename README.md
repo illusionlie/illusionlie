@@ -35,5 +35,5 @@ I enjoy playing around with some interesting open-source projects!
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=illusionlie.illusionlie)
 
-![](https://count.getloli.com/@illusionlie?theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+![](https://count.illusionlie.com/@illusionlie@github-profile?theme=moebooru)
 </div>
