@@ -11,7 +11,7 @@
  
 ---
 - 👋 Hi, I'm IllusionLie.
-- 🔭 Vibe Coding Enjoyer, Entry-Level Programmer.
+- 🔭 Vibe Coding Enjoyer, Full stack programmer.
 - 📫 How to reach me: [illusionlie@illusionlie.com](mailto:illusionlie@illusionlie.com).
 - 📖 I enjoy playing around with some interesting open-source projects!
 ---
